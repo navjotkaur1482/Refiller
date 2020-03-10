@@ -1,0 +1,372 @@
+[
+ {
+   "Asset_ID": "2.01806E+13",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Mildura",
+   "Site": "Deakin Avenue Median",
+   "Asset_Owner": "Council",
+   "Notes": "Includes dog tap and bowl",
+   "Longitude": 142.15997,
+   "Latitude": -34.18736
+ },
+ {
+   "Asset_ID": "DF1",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Red Cliffs",
+   "Site": "Quandong Park",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.187852,
+   "Latitude": -34.299496
+ },
+ {
+   "Asset_ID": "DF10",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Irymple",
+   "Site": "Irymple Lions Park",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.175099,
+   "Latitude": -34.234144
+ },
+ {
+   "Asset_ID": "DF11",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Mildura",
+   "Site": "Deakin Avenue Median",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.161738,
+   "Latitude": -34.185849
+ },
+ {
+   "Asset_ID": "DF12",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Mildura",
+   "Site": "Port of Mildura Reserve",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.163679,
+   "Latitude": -34.180619
+ },
+ {
+   "Asset_ID": "DF13",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Red Cliffs",
+   "Site": "Red Cliffs Bowling Club",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.191178,
+   "Latitude": -34.308091
+ },
+ {
+   "Asset_ID": "DF14",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Red Cliffs",
+   "Site": "Quandong Park",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.18949,
+   "Latitude": -34.298732
+ },
+ {
+   "Asset_ID": "DF15",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Red Cliffs",
+   "Site": "Quandong Park",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.189174,
+   "Latitude": -34.299565
+ },
+ {
+   "Asset_ID": "DF16",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Irymple",
+   "Site": "Henshilwood Reserve",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.166779,
+   "Latitude": -34.233946
+ },
+ {
+   "Asset_ID": "DF17",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Irymple",
+   "Site": "Henshilwood Reserve",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.168293,
+   "Latitude": -34.235193
+ },
+ {
+   "Asset_ID": "DF2",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Red Cliffs",
+   "Site": "Quandong Park",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.186876,
+   "Latitude": -34.301219
+ },
+ {
+   "Asset_ID": "DF20",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Red Cliffs",
+   "Site": "Red Cliffs Swimming Pool (333)",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.188599,
+   "Latitude": -34.30466
+ },
+ {
+   "Asset_ID": "DF21",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Irymple",
+   "Site": "G.J. Lloyd Reserve",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.168993,
+   "Latitude": -34.233587
+ },
+ {
+   "Asset_ID": "DF22",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Mildura",
+   "Site": "Buxton - Sobee Park",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.175618,
+   "Latitude": -34.201576
+ },
+ {
+   "Asset_ID": "DF23",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Mildura",
+   "Site": "Sixteenth & Etiwanda Reserve",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.135079,
+   "Latitude": -34.221665
+ },
+ {
+   "Asset_ID": "DF24",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Mildura",
+   "Site": "Sharland Park",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.149399,
+   "Latitude": -34.1856
+ },
+ {
+   "Asset_ID": "DF25",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Mildura",
+   "Site": "Mansell Reserve",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.153436,
+   "Latitude": -34.176368
+ },
+ {
+   "Asset_ID": "DF26",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Mildura",
+   "Site": "Mansell Reserve",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.15531,
+   "Latitude": -34.176546
+ },
+ {
+   "Asset_ID": "DF27",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Mildura",
+   "Site": "Old Aerodrome Sporting Complex",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.13841,
+   "Latitude": -34.176187
+ },
+ {
+   "Asset_ID": "DF28",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Mildura",
+   "Site": "Old Aerodrome Sporting Complex",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.131901,
+   "Latitude": -34.174582
+ },
+ {
+   "Asset_ID": "DF29",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Mildura",
+   "Site": "Port of Mildura Reserve",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.170016,
+   "Latitude": -34.185345
+ },
+ {
+   "Asset_ID": "DF30",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Mildura",
+   "Site": "Port of Mildura Reserve",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.168777,
+   "Latitude": -34.185118
+ },
+ {
+   "Asset_ID": "DF31",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Mildura",
+   "Site": "Port of Mildura Reserve",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.16792,
+   "Latitude": -34.18449
+ },
+ {
+   "Asset_ID": "DF32",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Mildura",
+   "Site": "Port of Mildura Reserve",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.16681,
+   "Latitude": -34.184287
+ },
+ {
+   "Asset_ID": "DF33",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Mildura",
+   "Site": "Port of Mildura Reserve",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.169229,
+   "Latitude": -34.184838
+ },
+ {
+   "Asset_ID": "DF34",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Mildura",
+   "Site": "Port of Mildura Reserve",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.166384,
+   "Latitude": -34.183188
+ },
+ {
+   "Asset_ID": "DF35",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Mildura",
+   "Site": "Port of Mildura Reserve",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.168478,
+   "Latitude": -34.18404
+ },
+ {
+   "Asset_ID": "DF36",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Mildura",
+   "Site": "Port of Mildura Reserve",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.168478,
+   "Latitude": -34.18404
+ },
+ {
+   "Asset_ID": "DF37",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Mildura",
+   "Site": "Railway Lawns",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.163568,
+   "Latitude": -34.182732
+ },
+ {
+   "Asset_ID": "DF38",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Mildura",
+   "Site": "Port of Mildura Reserve",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.164083,
+   "Latitude": -34.182198
+ },
+ {
+   "Asset_ID": "DF39",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Mildura",
+   "Site": "Port of Mildura Reserve",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.164664,
+   "Latitude": -34.181165
+ },
+ {
+   "Asset_ID": "DF40",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Mildura",
+   "Site": "Port of Mildura Reserve",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.164891,
+   "Latitude": -34.181782
+ },
+ {
+   "Asset_ID": "DF5",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Merbein",
+   "Site": "Chaffey Park",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.079021,
+   "Latitude": -34.172431
+ },
+ {
+   "Asset_ID": "DF6",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Underbool",
+   "Site": "Wayside Park",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 141.810275,
+   "Latitude": -35.169753
+ },
+ {
+   "Asset_ID": "DF7",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Irymple",
+   "Site": "Henshilwood Reserve",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.168892,
+   "Latitude": -34.234252
+ },
+ {
+   "Asset_ID": "DF8",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Irymple",
+   "Site": "Henshilwood Reserve",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.168293,
+   "Latitude": -34.235156
+ },
+ {
+   "Asset_ID": "DF9",
+   "Asset_Group": "Drinking Fountain",
+   "Community": "Nangiloc",
+   "Site": "Nangiloc Recreation Reserve",
+   "Asset_Owner": "Council",
+   "Notes": "",
+   "Longitude": 142.362592,
+   "Latitude": -34.478516
+ }
+]

@@ -1,0 +1,72 @@
+		"Woodoonga": [{
+				"Address": "0 PEARCE STREET",
+				"Zone": "URBAN 2",
+				"ParkName": "Willow Park",
+				"AssetDesc": "Drinking fountain - single",
+				"ID": "568",
+				"Latitude": "-36.13610298",
+				"Longitude": "146.874872"
+			},
+			{
+				"Address": "0 CHURCH STREET",
+				"Zone": "URBAN 1",
+				"ParkName": "Belvoir Park",
+				"AssetDesc": "Drinking fountain - single",
+				"ID": "404",
+				"Latitude": "-36.11455798",
+				"Longitude": "146.888822"
+			},
+			{
+				"Address": "118 HOVELL STREET",
+				"Zone": "URBAN 1",
+				"AssetDesc": "Drinking fountain - single",
+				"ID": "1458",
+				"Latitude": "-36.12337476",
+				"Longitude": "146.8889996"
+			},
+			{
+				"Address": "0 CHURCH STREET",
+				"Zone": "URBAN 1",
+				"ParkName": "Belvoir Park",
+				"AssetDesc": "Drinking fountain - single",
+				"ID": "405",
+				"Latitude": "-36.11500299",
+				"Longitude": "146.888618"
+			},
+			{
+				"Address": "0 LAWRENCE STREET",
+				"Zone": "URBAN 2",
+				"ParkName": "Les Stone Park",
+				"AssetDesc": "Drinking fountain - single",
+				"ID": "430",
+				"Latitude": "-36.12321696",
+				"Longitude": "146.874687"
+			},
+			{
+				"Address": "2 SAGE COURT",
+				"Zone": "URBAN 4",
+				"ParkName": "Baranduda Community Centre",
+				"AssetDesc": "Drinking fountain - single",
+				"ID": "1662",
+				"Latitude": "-36.17957025",
+				"Longitude": "146.9458874"
+			},
+			{
+				"Address": "0 LAWRENCE STREET",
+				"Zone": "URBAN 2",
+				"ParkName": "Kelly Park",
+				"AssetDesc": "Drinking fountain - single",
+				"ID": "756",
+				"Latitude": "-36.12118298",
+				"Longitude": "146.870212"
+			},
+			{
+				"Address": "0 PEARCE STREET",
+				"Zone": "URBAN 2",
+				"ParkName": "Willow Park",
+				"AssetDesc": "Drinking fountain - single",
+				"ID": "589",
+				"Latitude": "-36.13630697",
+				"Longitude": "146.876698"
+			}
+		]
